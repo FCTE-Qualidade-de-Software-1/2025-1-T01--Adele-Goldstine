@@ -1,0 +1,37 @@
+site_name: Agromart - Grupo Adele Goldstine
+site_author: Mateus Villela, Raissa Andrade, Eric Akio, Carlos, Gabriela Tiago, Rodrigo Bezerra
+site_description: Site voltado para a documentação do Grupo Adele Goldstine de Qualidades de Software 1
+repo_url: https://github.com/FCTE-Qualidade-de-Software-1/2025-1-T01--Adele-Goldstine
+repo_name: 2025-1-T01--Adele-Goldstine
+
+theme:
+  name: material
+  logo: 'images/logo_agromart.png'
+  favicon: 'images/logo_agromart.png'
+
+  palette:
+    - scheme: default
+      primary: "#4D6BFE"
+      accent: "#4D6BFE"
+      toggle:
+        icon: material/brightness-7   
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: "#4D6BFE"
+      accent: "#4D6BFE"
+      toggle:
+        icon: material/brightness-4   
+        name: Switch to light mode
+
+nav:
+  - Visão Geral: index.md
+        
+markdown_extensions:
+  - pymdownx.details
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.arithmatex:
+      generic: true
