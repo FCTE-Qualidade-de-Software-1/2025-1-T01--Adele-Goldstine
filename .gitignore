@@ -1,0 +1,29 @@
+# Diretórios do ambiente virtual
+venv/
+.env/
+
+# Arquivos compilados do Python
+*.pyc
+__pycache__/
+
+# Arquivos de build do MkDocs
+site/
+mkdocs.yml.lock
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo GitHub Actions
+.github/workflows/*.log
+.github/workflows/*.cache
+
+# Diretórios do Node.js (se usar alguma dependência via npm)
+node_modules/
+
+# Ignorar a branch `gh-pages` local
+gh-pages/
