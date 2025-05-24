@@ -66,3 +66,4 @@ Nossa equipe é composta por:
 ---
 
 Este repositório faz parte das atividades da disciplina de **Qualidade de Software**, e será atualizado conforme a evolução do projeto AgroMart.
+
