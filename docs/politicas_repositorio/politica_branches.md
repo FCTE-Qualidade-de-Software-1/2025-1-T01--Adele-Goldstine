@@ -26,6 +26,6 @@ As branches devem seguir o seguinte padrão:
 ## Histórico de Versões
 
 
-| Data       | Versão | Descrição                                 | Autor             | Revisor           |
-| :--------: | :----: | :----------:                              | :---------------: | :---------------: |
-| 21/05/2025 |  1.0   | Criação da política de branches           | [@Mateus](https://github.com/MVConsorte)| - |
+| Data       | Versão | Descrição                                 | Autor             | Data de revisão |Revisor           | 
+| :--------: | :----: | :----------:                              | :---------------:|:----: | :---------------: |
+| 21/05/2025 |  1.0   | Criação da política de branches           | [@Mateus](https://github.com/MVConsorte)| 24/05/2025 |[Raissa](https://github.com/RaissaAndradeS) |
