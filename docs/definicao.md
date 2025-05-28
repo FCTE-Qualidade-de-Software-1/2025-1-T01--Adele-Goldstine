@@ -1,5 +1,16 @@
 ## Objetivo de Negócio do **AgroMart**
 
+Conectar agricultores familiares diretamente a consumidores e co-agricultores, facilitando a comercialização de seus produtos, fortalecendo a agricultura sustentável e o consumo consciente. A plataforma visa otimizar a logística de CSAs (Comunidade que Sustenta a Agricultura), promover a autonomia dos produtores, reduzir o desperdício de alimentos, e contribuir para a segurança alimentar, o desenvolvimento econômico local e a redução das desigualdades, utilizando tecnologia acessível e fomentando um ecossistema open source.
+
+## Conexão com os Objetivos de Desenvolvimento Sustentável (ODS)
+
+O AgroMart está alinhado com os seguintes ODS:
+
+-   **ODS 1 (Erradicação da Pobreza)** e **ODS 8 (Trabalho decente e crescimento Econômico)**: Promover o desenvolvimento econômico local e reduzir as desigualdades, proporcionando aos agricultores familiares uma plataforma para comercializar seus produtos diretamente aos consumidores.
+-   **ODS 2 (Fome Zero e Agricultura Sustentável)**: Contribuir para a segurança alimentar, reduzindo o desperdício de alimentos e promovendo práticas agrícolas sustentáveis.
+-   **ODS 10 (Redução das Desigualdades)**: Fomentar a autonomia dos produtores e fortalecer a agricultura familiar, reduzindo as desigualdades no acesso ao mercado.
+-   **ODS 12 (Consumo e Produção Responsáveis)**: Promover o consumo consciente e a produção responsável, conectando consumidores a co-agricultores e incentivando práticas sustentáveis.
+
 ## Objetivo de Medição
 
 ### Métrica [NOME DA MÉTRICA 1]
@@ -61,6 +72,7 @@
 
 ## Tabela de Versionamento
 
-|    Data    | Versão |              Descrição              |                       Autor                        | Data de revisão | Revisor |
-| :--------: | :----: | :---------------------------------: | :------------------------------------------------: | :-------------: | :-----: |
-| 26/05/2025 |  1.0   | Cria base do documento de definição | [Gabriela Tiago](https://github.com/GabrielaTiago) |                 |         |
+|    Data    | Versão |                    Descrição                    |                       Autor                        | Data de revisão | Revisor |
+| :--------: | :----: | :---------------------------------------------: | :------------------------------------------------: | :-------------: | :-----: |
+| 26/05/2025 |  1.0   |       Cria base do documento de definição       | [Gabriela Tiago](https://github.com/GabrielaTiago) |                 |         |
+| 27/05/2025 |  1.1   | Adiciona objetivos de medição e conexão com ODS | [Gabriela Tiago](https://github.com/GabrielaTiago) |                 |         |
