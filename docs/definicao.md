@@ -13,43 +13,35 @@ O AgroMart está alinhado com os seguintes ODS:
 
 ## Objetivo de Medição
 
-### Métrica [NOME DA MÉTRICA 1]
+### Usabilidade
 
-|                      |            |
-| -------------------- | ---------- |
-| Analisar             | o AgroMart |
-| Para o propósito de  |            |
-| Com respeito a       |            |
-| Do ponto de vista da |            |
-| No contexto da       | disciplina |
+-   **Objeto:** AgroMart
+-   **Objetivo (do GQM):** Melhorar (visando facilitar a adoção e o uso eficiente por todos os perfis de usuário)
+-   **Enfoque de Qualidade:** Usabilidade (Compreensibilidade, Apreensibilidade, Operabilidade, Atratividade, Proteção contra erro do usuário, Estética da Interface do Usuário, Acessibilidade)
+-   **Ponto de Vista:** Usuário Final (Administrador da CSA; Co-agricultor), Equipe de Desenvolvimento
+-   **Contexto:** Projeto AgroMart, considerando o contexto da disciplina de Qualidade de Software
 
-### Métrica [NOME DA MÉTRICA 2]
+### Compatibilidade
 
-|                      |            |
-| -------------------- | ---------- |
-| Analisar             | o AgroMart |
-| Para o propósito de  |            |
-| Com respeito a       |            |
-| Do ponto de vista da |            |
-| No contexto da       | disciplina |
+-   **Objeto:** AgroMart
+-   **Objetivo (do GQM):** Garantir (a operação adequada em diferentes ambientes tecnológicos e a interoperabilidade com sistemas externos relevantes)
+-   **Enfoque de Qualidade:** Compatibilidade (Coexistência, Interoperabilidade, Conformidade de Plataforma)
+-   **Ponto de Vista:** Usuário Final (Administrador da CSA; Co-agricultor), Equipe de Desenvolvimento/Testes
+-   **Contexto:** Projeto AgroMart, considerando o contexto da disciplina de Qualidade de Software
 
 ## Questões Objetivo de Medição
 
-### Questões da Métrica [NOME DA MÉTRICA 1]
+### Usabilidade
 
-> **Q1:** Questão 1
-> <br> **H1:** Hipótese 1
+> **Questão 1:** Quão compreensível e operável é a plataforma (tanto a interface de administração quanto o aplicativo do co-agricultor) para que os usuários realizem suas tarefas essenciais com o mínimo de esforço e erros, e sem necessidade constante de recorrer a ajuda externa?
 >
-> <br> **Q2:** Questão 2
-> <br> **H2:** Hipótese 2
+> <br> **Hipótese 1:** A plataforma atinge uma pontuação SUS de no mínimo 70. Menos de 10% das tentativas de realizar tarefas essenciais resultam em erro impeditivo. A necessidade de consultar a documentação para tarefas rotineiras é inferior a 5% das sessões.
 
-### Questões da Métrica [NOME DA MÉTRICA 2]
+### Compatibilidade
 
-> **Q1:** Questão 1
-> <br> **H1:** Hipótese 1
+> **Questão 2:** A interface do AgroMart (tanto a plataforma web de administração quanto o aplicativo do co-agricultor) se adapta adequadamente a diferentes tamanhos e resoluções de tela, mantendo a funcionalidade, a legibilidade e uma boa apresentação visual?
 >
-> <br> **Q2:** Questão 2
-> <br> **H2:** Hipótese 2
+> <br> **Hipótese 2:** Não há quebras de layout significativas, perda de funcionalidade ou conteúdo sobreposto em 95% das telas ao variar a resolução entre as mais comuns de desktops (ex: 1366x768 a 1920x1080) e as de smartphones populares (ex: 360x640 a 414x896).
 
 ## Relação entre Objetivos de Medição - Questões e Métricas
 
