@@ -77,7 +77,7 @@ O AgroMart está alinhado com os seguintes ODS:
 
 ## Relação entre Objetivos de Medição - Questões e Métricas
 
-(apresente graficamente, casosejam definidos mais de um objetivo de medição).
+(apresente graficamente, caso sejam definidos mais de um objetivo de medição).
 
 ## Abstraction Sheets
 
