@@ -83,6 +83,7 @@ O AgroMart está alinhado com os seguintes ODS:
 
 (para cada objetivo de medição)
 
+
 ## Tabela de Contribuição
 
 | Matrícula |                           Nome Completo                            | Contribuição (%) |
@@ -101,3 +102,4 @@ O AgroMart está alinhado com os seguintes ODS:
 | 26/05/2025 |  1.0   |        Cria base do documento de definição         | [Gabriela Tiago](https://github.com/GabrielaTiago) |                 |         |
 | 27/05/2025 |  1.1   |  Adiciona objetivos de medição e conexão com ODS   | [Gabriela Tiago](https://github.com/GabrielaTiago) |                 |         |
 | 28/05/2025 |  1.2   | Adiciona questões, hipóteses e métricas de medição | [Gabriela Tiago](https://github.com/GabrielaTiago) |                 |         |
+

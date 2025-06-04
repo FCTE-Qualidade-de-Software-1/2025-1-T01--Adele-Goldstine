@@ -26,7 +26,8 @@ theme:
 
 nav:
   - Visão Geral: index.md
-  - Definição: definicao.md
+  - GQM:
+    - Definição: GQM/definicao.md
 
 markdown_extensions:
   - pymdownx.details
