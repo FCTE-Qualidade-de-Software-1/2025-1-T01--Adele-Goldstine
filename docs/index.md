@@ -34,8 +34,51 @@ Atualmente, o projeto passou por mais uma etapa de inovação, tornando-se **ope
 O **Agromart** representa um avanço significativo na digitalização da agricultura familiar, fortalecendo a **autonomia dos produtores** e oferecendo uma solução acessível e eficiente para conectar agricultores e consumidores.
 
 ---
-
 Para mais detalhes, acesse a [documentação oficial](https://agromart.github.io/docs/docs/intro).
+
+##  Equipe
+
+Nossa equipe é composta por:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/CarlosEduardoMendesdeMesquita">
+        <img src="https://github.com/CarlosEduardoMendesdeMesquita.png" width="100px;" alt="Carlos Eduardo"/><br />
+        <sub><b>Carlos Eduardo</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eric-kingu">
+        <img src="https://github.com/eric-kingu.png" width="100px;" alt="Eric Akio"/><br />
+        <sub><b>Eric Akio</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GabrielaTiago">
+        <img src="https://github.com/GabrielaTiago.png" width="100px;" alt="Gabriela Tiago"/><br />
+        <sub><b>Gabriela Tiago</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MVConsorte">
+        <img src="https://github.com/MVConsorte.png" width="100px;" alt="Mateus Villela"/><br />
+        <sub><b>Mateus Villela</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RaissaAndradeS">
+        <img src="https://github.com/RaissaAndradeS.png" width="100px;" alt="Raissa Andrade"/><br />
+        <sub><b>Raissa Andrade</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rodrigomfab88">
+        <img src="https://github.com/Rodrigomfab88.png" width="100px;" alt="Rodrigo Mattos"/><br />
+        <sub><b>Rodrigo Mattos</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Tabela de Versionamento
 
